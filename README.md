@@ -12,7 +12,7 @@ Our project uses machine learning techniques on the California home Prices datas
 ## Methodology
 
 ### 1. Data Source
-Utilized the California housing dataset from the 1990 census, available on [Kaggle](https://www.kaggle.com/datasets/camnugent/californiahousing-prices).
+Utilized the California housing dataset from the 1990 census, available on [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
 
 ### 2. Data Acquisition
 The dataset includes various features such as longitude, latitude, and median income.
