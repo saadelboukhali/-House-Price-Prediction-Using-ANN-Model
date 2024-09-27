@@ -2,13 +2,10 @@
 
 This project employs machine learning algorithms to develop a housing price prediction model using data from the 1990 California census. The model aims to assist home sellers and real estate agents in making informed decisions by providing accurate home price estimates. The research highlights that linear regression consistently outperforms other models in predicting home prices.
 
+
 ## Introduction
 Housing price prediction is vital for stakeholders like real estate investors, buyers, and urban planners. This study aims to develop machine learning models that reliably forecast home prices based on various dataset features.
 
-## Literature Review
-- **Historical Overview**: The real estate industry reflects individual and economic needs.
-- **Comparative Analysis**: Different machine learning algorithms, including linear regression and support vector regression, have been explored for housing price prediction.
-- **Data Preprocessing**: Essential for model performance, involving missing value handling, outlier removal, and normalization.
 
 ## Methodology
 1. **Data Source**: Utilized the California housing dataset from the 1990 census, available on [Kaggle](https://www.kaggle.com/datasets/camnugent/californiahousing-prices).
