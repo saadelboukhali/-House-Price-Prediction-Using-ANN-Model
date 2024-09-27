@@ -28,6 +28,3 @@ This project illustrates the potential of machine learning in accurately predict
 - Python
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-## License
-This project is licensed under the MIT License.
-
