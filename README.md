@@ -37,6 +37,7 @@ The models and techniques explored include:
 
 We evaluated the performance of each model using metrics such as **Mean Absolute Error (MAE)**, **Mean Squared Error (MSE)**, and the **R² score**. Among the tested models, **Model 4** proved the most effective, providing the most accurate predictions with the lowest error metrics and the highest R² score.
 
+
 ![Model Comparisons](Assets/Images/Models.JPG)
 
 ## Visualization of Results
