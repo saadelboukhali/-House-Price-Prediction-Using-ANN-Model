@@ -1,5 +1,10 @@
 # House Price Prediction Using ANN Model
 
+![Cover Image](Assets/Images/couverture.png)
+
+
+
+
 This project employs machine learning algorithms to develop a housing price prediction model using data from the 1990 California census. The model aims to assist home sellers and real estate agents in making informed decisions by providing accurate home price estimates. The research highlights that linear regression consistently outperforms other models in predicting home prices.
 
 ## Introduction
