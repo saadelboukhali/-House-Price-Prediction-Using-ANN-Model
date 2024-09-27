@@ -35,6 +35,20 @@ The performance of various models was evaluated using metrics such as Mean Absol
 
    ![Model Comparisons](Assets/Images/Models.JPG)
 
+## Visualization of Results
+To better understand the performance of the models, we visualized the training loss curves, predicted vs actual values, and the distribution of residuals.
+
+The graph 1 shows the training loss over epochs for each model, and helps in understanding how well the
+models learn over time and if they suffer from overfitting or underfitting.
+
+IMAGE
+
+
+This scatter plot (Graph 2) compares the predicted house prices against the actual values for the test set, and helps in assessing how closely the predicted values align with the actual values.
+
+IMAGE 
+
+
 In **Graph 4**, we can see that **Model 4**'s residuals are more centered around zero compared to other models, indicating better predictions.
 
    ![Model Residuals](Assets/Images/The%20Models%20Reduals.JPG)
