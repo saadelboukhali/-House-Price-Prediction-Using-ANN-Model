@@ -56,7 +56,8 @@ This scatter plot compares the predicted house prices against the actual values 
 ### Residuals
 In the graph below, **Model 4**'s residuals are more centered around zero compared to the other models, indicating better predictions.
 
-![Model Residuals](Assets/Images/The Models Reduals.JPG)
+![Model Residuals](Assets/Images/The%20Models%20Residuals.JPG)
+
 
 ## Conclusion
 
