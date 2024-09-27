@@ -63,7 +63,8 @@ In the graph below, **Model 4**'s residuals are more centered around zero compar
 ## Conclusion
 
 We explored several models, including simple linear regression and more complex algorithms, and assessed their performance using key metrics such as Mean Absolute Error (MAE),
-Mean Squared Error (MSE), and R² score. Among the four models we tested, Model 4 demonstrated the highest predictive accuracy, with the lowest MAE and MSE, and the highest R² score. This indicates that Model 4 is the most effThis project demonstrates the potential of machine learning in accurately predicting housing prices. It highlights the importance of data preprocessing and model selection in improving prediction accuracy.
+Mean Squared Error (MSE), and R² score. Among the four models we tested, Model 4 demonstrated the highest predictive accuracy, with the lowest MAE and MSE, and the highest R² score. This indicates that Model 4 is the most effective in capturing the complex relationships within the data and providing
+reliable predictions.
 
 ## Technologies Used
 - **Programming Language**: Python
